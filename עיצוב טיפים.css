@@ -1,0 +1,15 @@
+img { width:600 }
+body {
+  background-image: url("רקע 5.jpg") ; background-position: right top;
+  background-attachment: fixed;
+}
+body {
+  background: rgba(0.1)
+}
+
+.red {font-size: 28px}
+#spacial {font-size: 32px}
+.centered-text {    
+  text-align: center;
+
+
